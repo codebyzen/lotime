@@ -1,4 +1,4 @@
-package github.com/codebyzen/lotime
+package main
 
 import (
 	"sync"
